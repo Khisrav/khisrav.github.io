@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="theme-color" content="#0B172D">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Khisrav - Portfolio</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,47 +12,46 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="header">
-    <nav class="nav">
-        <a href="#" class="logo">LOGO</a>
-
-        <ul class="menu">
-            <li class="item active">
-                <a href="#">Home</a>
-            </li>
-            <li class="item">
-                <a href="#">Projects</a>
-            </li>
-            <li class="item">
-                <a href="#">About</a>
-            </li>
-            <li class="item">
-                <a href="#">Achievements</a>
-            </li>
-            <li class="item">
-                <select>
-                    <option value="en">EN</option>
-                    <option value="ru">RU</option>
-                </select>
-            </li>
-            <li class="item">
-                <a href="#" class="btn btn-white">GitHub</a>
-            </li>
-        </ul>
-
-        <div class="hamburger">
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
+<!-- Header Section -->
+<header class="header" id="header">
+    <nav class="navbar container">
+       <a href="/" class="brand">KHX</a>
+       <div class="burger" id="burger">
+          <span class="burger-line"></span>
+          <span class="burger-line"></span>
+          <span class="burger-line"></span>
+       </div>
+       <div class="menu" id="menu">
+          <ul class="menu-inner">
+             <li class="menu-item"><a href="#" class="menu-link">Home</a></li>
+             <li class="menu-item"><a href="#" class="menu-link">Feature</a></li>
+             <li class="menu-item"><a href="#" class="menu-link">Product</a></li>
+             <li class="menu-item"><a href="#" class="menu-link">Support</a></li>
+          </ul>
+       </div>
+       <a href="https://github.com/Khisrav" class="menu-block btn btn-outline">GitHub</a>
     </nav>
-</header>
+ </header>
 <main>
     <section class="hero">
         <div class="big-text pb-5">
-            <div class="pt-5 mt-5"><span class="co">CO</span><span class="de">DE</span></div><div><span class="crafter">CRAFTER</span></div>
-            <div class="hero-img" id="hero-img">
-                <div class="smoother"></div>
+            <div class="pt-5 mt-5">
+                <span class="co">CO</span>
+                <span class="de">DE</span>
+            </div>
+            <div>
+                <span class="crafter">CRAFTER</span>
+            </div>
+            <div class="desktop">
+                <div class="hero-img" id="hero-img">
+                    <div class="smoother"></div>
+                </div>
+            </div>
+            <div class="mobile">
+                <a href="" class="btn btn-violet mt-5 mb-3" style="font-family: 'Montserrat', sans-serif;padding:16px 32px;">Contact Me</a>
+                <div class="hero-img__mobile">
+                    <img src="hero-avatar.png" alt="">
+                </div>
             </div>
         </div>
     </section>
@@ -63,9 +63,9 @@
                 <div class="col-md-4">
                     <div class="portfolio">
                         <div class="portfolio-content">
-                            <img src="assets/azuki.png" alt="" class="portfolio-img">
+                            <a href="#"><img src="assets/azuki.png" alt="" class="portfolio-img"></a>
                             <div class="portfolio-info">
-                                <p class="m-0"><a href="" class="portfolio-title">Azuki NFT Landing Page</a></p>
+                                <a href="#"><p class="m-0"><a href="" class="portfolio-title">Azuki NFT Landing Page</a></p></a>
                                 <div class="portfolio-stack">
                                     <span class="portfolio-stack__item">HTML</span>
                                     <span class="portfolio-stack__item">CSS</span>
@@ -76,8 +76,8 @@
                             </div>
                         </div>
                         <div class="portfolio-buttons">
-                            <a href="" class="btn btn-violet">Live</a>
-                            <a href="" class="btn btn-white">GitHub</a>
+                            <a href="http://y006333d.beget.tech/" class="btn btn-violet">Live</a>
+                            <a href="https://github.com/Khisrav/Azuki" class="btn btn-white">GitHub</a>
                         </div>
                     </div>
                 </div>
@@ -97,13 +97,12 @@
                             </div>
                         </div>
                         <div class="portfolio-buttons">
-                            <a href="" class="btn btn-violet">Live</a>
-                            <a href="" class="btn btn-white">GitHub</a>
+                            <a href="https://khisrav.github.io/freddy/" class="btn btn-violet">Live</a>
+                            <a href="https://github.com/Khisrav/freddy" class="btn btn-white">GitHub</a>
                         </div>
                     </div>
                 </div>
 
-                
                 <div class="col-md-4">
                     <div class="portfolio">
                         <div class="portfolio-content">
