@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Eye, Github, Instagram, Link, Send, Star } from 'lucide-vue-next'
+import { Eye, Instagram, Link, Send, Star } from 'lucide-vue-next'
 import Button from '@/components/ui/button/Button.vue'
 import { fetchGitHubRepos } from '@/lib/github'
 import { reactive, onMounted } from 'vue'
