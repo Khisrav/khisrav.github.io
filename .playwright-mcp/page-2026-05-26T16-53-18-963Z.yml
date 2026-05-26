@@ -1,0 +1,262 @@
+- generic [ref=e5]:
+  - region "top of page" [active]
+  - generic [ref=e12]:
+    - group:
+      - main:
+        - generic [ref=e17]:
+          - group
+        - generic [ref=e18]:
+          - img "52610a_bb2fa020899247c5af44d1a819f0b65c~mv2-min.webp" [ref=e23]
+          - generic [ref=e24]:
+            - group:
+              - img "vlcsnap-2025-04-22-20h55m00s453 (1) (1).jpg" [ref=e29]
+              - generic [ref=e30] [cursor=pointer]:
+                - button "KeyArt_WebVideo_v01.mp4 Play video" [pressed] [ref=e31]
+                - generic [ref=e38]:
+                  - img [ref=e40]
+                  - img [ref=e45]
+              - img "Ultrawide Symetrical Blob-min.webp" [ref=e53]
+              - img "Header Frame-min.webp" [ref=e58]
+              - img [ref=e61]
+              - img [ref=e66]
+              - img [ref=e71]
+              - img [ref=e76]
+              - img "Wishlist Background-min.webp" [ref=e83]
+              - img "PetalsA-min.webp" [ref=e88]
+              - 'img "Clair Obscur: Expedition 33" [ref=e93]'
+              - img "Ultrawide Symetrical Blob-min.webp" [ref=e99]
+              - img "Ultrawide Symetrical Blob-min.webp" [ref=e105]
+              - heading "AVAILABLE NOW" [level=2] [ref=e107]:
+                - link "AVAILABLE NOW" [ref=e109] [cursor=pointer]:
+                  - /url: https://www.expedition33.com
+              - img "ButtonBG.png" [ref=e114]
+              - heading "« Tomorrow Comes »" [level=2] [ref=e116]:
+                - generic [ref=e117]: « Tomorrow Comes »
+        - generic [ref=e118]:
+          - img "BackgroundTILE.png" [ref=e123]
+          - group:
+            - img "Ultrawide Symetrical Blob.png" [ref=e128]
+            - img "UI Title BG.png" [ref=e141]
+            - heading "« Latest News »" [level=2] [ref=e151]
+            - img "Ultrawide Symetrical Blob.png" [ref=e157]
+            - img "Ultrawide Symetrical Blob.png" [ref=e163]
+            - region "Post list. Select a post to read." [ref=e175]:
+              - generic [ref=e177]:
+                - generic [ref=e178]:
+                  - 'img "1st Anniversary of Clair Obscur: Expedition 33" [ref=e182] [cursor=pointer]'
+                  - generic [ref=e187]:
+                    - generic [ref=e188]:
+                      - 'link "1st Anniversary of Clair Obscur: Expedition 33" [ref=e189] [cursor=pointer]':
+                        - /url: https://www.expedition33.com/post/1st-anniversary-of-clair-obscur-expedition-33
+                        - 'heading "1st Anniversary of Clair Obscur: Expedition 33" [level=2] [ref=e192]'
+                      - generic [ref=e196] [cursor=pointer]: "Today marks 1 year since we released Clair Obscur: Expedition 33. This past year has been an incredible journey and so we have a few things to share with you today."
+                    - generic [ref=e200]:
+                      - generic [ref=e201]: Apr 24
+                      - generic [ref=e204]: 2 min read
+                - generic [ref=e205]:
+                  - img "Expedition 33 Dev Blog - Photo Mode" [ref=e209] [cursor=pointer]
+                  - generic [ref=e214]:
+                    - generic [ref=e215]:
+                      - link "Expedition 33 Dev Blog - Photo Mode" [ref=e216] [cursor=pointer]:
+                        - /url: https://www.expedition33.com/post/expedition-33-dev-blog-photo-mode
+                        - heading "Expedition 33 Dev Blog - Photo Mode" [level=2] [ref=e219]
+                      - generic [ref=e223] [cursor=pointer]: There were a lot of moving parts involved in getting the Photo Mode set up, so we thought we’d show a bit of the process in this blog and talk a bit about what went into building this feature.
+                    - generic [ref=e227]:
+                      - generic [ref=e228]: Feb 11
+                      - generic [ref=e231]: 4 min read
+            - img "Line.png" [ref=e236]
+        - generic [ref=e237]:
+          - img "52610a_bb2fa020899247c5af44d1a819f0b65c~mv2-min.webp" [ref=e242]
+          - group:
+            - img "Paint4 (1)-min.webp" [ref=e247]
+            - img "Ultrawide Symetrical Blob.png" [ref=e253]
+            - generic [ref=e254]:
+              - img "vlcsnap-2025-04-22-20h07m56s048.jpg" [ref=e260]
+              - generic "Your Video Title Video Player" [ref=e262]
+              - img "Ultrawide Symetrical Blob-min.webp" [ref=e275]
+              - img "Ultrawide Symetrical Blob-min.webp" [ref=e281]
+              - img "Ultrawide Symetrical Blob-min.webp" [ref=e287]
+              - img "Paint4-min.webp" [ref=e292]
+              - link "Watch Trailer" [ref=e294] [cursor=pointer]:
+                - /url: https://www.expedition33.com/post/out-now
+                - img [ref=e298]
+              - link "Launch Trailer" [ref=e303] [cursor=pointer]:
+                - /url: https://www.expedition33.com/post/out-now
+                - generic [ref=e305]: Launch Trailer
+            - heading "« Year by year, she erases us. »" [level=2] [ref=e311]
+            - generic [ref=e312]:
+              - paragraph [ref=e313]: Lead the members of Expedition 33 on their quest to destroy the
+              - paragraph [ref=e314]: Paintress so that she can never paint death again. Explore a world
+              - paragraph [ref=e315]: of wonders inspired by Belle Époque France and battle unique
+              - paragraph [ref=e316]: enemies in this turn-based RPG with real-time mechanics.
+        - generic [ref=e317]:
+          - img "52610a_bb2fa020899247c5af44d1a819f0b65c~mv2-min.webp" [ref=e322]
+          - group:
+            - img "Ultrawide Symetrical Blob.png" [ref=e327]
+            - img "UI Title BG (1)-min.webp" [ref=e332]
+            - heading "Characters" [level=2] [ref=e334]
+        - generic [ref=e335]:
+          - img "52610a_bb2fa020899247c5af44d1a819f0b65c~mv2-min.webp" [ref=e340]
+          - group:
+            - img "PetalsA (1)-min.webp" [ref=e345]
+            - img "Ultrawide Symetrical Blob-min.webp" [ref=e351]
+            - img "Ultrawide Symetrical Blob-min.webp" [ref=e356]
+            - heading "Media" [level=2] [ref=e358]
+            - img "Ultrawide Symetrical Blob-min.webp" [ref=e364]
+            - img "Ultrawide Symetrical Blob-min.webp" [ref=e370]
+            - img "Mielle Clipped Screenshot.png" [ref=e375]
+            - link "VIEW FULL GALLERY" [ref=e377] [cursor=pointer]:
+              - /url: https://www.expedition33.com/media
+              - generic [ref=e379]: VIEW FULL GALLERY
+        - generic [ref=e380]:
+          - img "52610a_bb2fa020899247c5af44d1a819f0b65c~mv2-min.webp" [ref=e385]
+          - group:
+            - img "PetalsA-min.webp" [ref=e390]
+            - img "UI Title BG2 (1)-min.webp" [ref=e395]
+            - img "UI Title BG2-min.webp" [ref=e400]
+            - heading "Join the" [level=2] [ref=e402]
+            - img "PetalsA (1)-min.webp" [ref=e407]
+            - heading "Expedition" [level=2] [ref=e409]
+            - img "CRM Form Housing-min.webp" [ref=e414]
+            - iframe [ref=e418]:
+              - iframe [ref=f1e5]:
+                - generic [active] [ref=f2e1]:
+                  - progressbar "Form progress" [ref=f2e9]
+                  - generic [ref=f2e15]:
+                    - generic:
+                      - generic:
+                        - img
+                    - group "Start Your Journey" [ref=f2e16]:
+                      - heading "Start Your Journey" [level=1] [ref=f2e19]
+                    - button "Enlist Now" [ref=f2e23] [cursor=pointer]:
+                      - generic [ref=f2e24]: Enlist Now
+            - heading "Unlock Exclusive rewards:" [level=2] [ref=e420]
+            - list [ref=e422]:
+              - listitem [ref=e423]:
+                - button "Exclusive Lumière Wallpaper" [expanded] [ref=e425] [cursor=pointer]:
+                  - generic [ref=e426]: Exclusive Lumière Wallpaper
+                  - img [ref=e428]
+                - region "Exclusive Lumière Wallpaper" [ref=e430]:
+                  - generic [ref=e432]:
+                    - group
+              - listitem [ref=e437]:
+                - button "Soundtrack Preview" [ref=e439] [cursor=pointer]:
+                  - generic [ref=e440]: Soundtrack Preview
+                  - img [ref=e442]
+                - region "Soundtrack Preview": "-"
+              - listitem [ref=e444]:
+                - button "Behind the Scenes Concept Art" [ref=e446] [cursor=pointer]:
+                  - generic [ref=e447]: Behind the Scenes Concept Art
+                  - img [ref=e449]
+                - region "Behind the Scenes Concept Art"
+        - generic [ref=e451]:
+          - img "BackgroundTILE.png" [ref=e456]
+          - group:
+            - img "Paint4 (1)-min.webp" [ref=e461]
+            - generic [ref=e462]:
+              - link "XBOX SERIES" [ref=e465] [cursor=pointer]:
+                - /url: https://www.microsoft.com/store/productid/9PPT8K6GQHRZ
+                - generic [ref=e466]:
+                  - generic [ref=e467]: XBOX SERIES
+                  - img [ref=e470]
+              - link "PLAYSTATION" [ref=e475] [cursor=pointer]:
+                - /url: https://store.playstation.com/concept/10008503
+                - generic [ref=e476]:
+                  - generic [ref=e477]: PLAYSTATION
+                  - img [ref=e480]
+              - link "steam" [ref=e485] [cursor=pointer]:
+                - /url: https://store.steampowered.com/app/1903340?utm_source=website&utm_medium=wishlist&utm_campaign=homepage
+                - generic [ref=e486]:
+                  - generic [ref=e487]: steam
+                  - img [ref=e490]
+              - link "Epic" [ref=e495] [cursor=pointer]:
+                - /url: https://store.epicgames.com/p/expedition-33-b3240d
+                - generic [ref=e496]:
+                  - generic [ref=e497]: Epic
+                  - img [ref=e500]
+              - img "Line.png" [ref=e508]
+        - generic [ref=e509]:
+          - group:
+            - img "PetalsB.png" [ref=e517]
+            - navigation "Site" [ref=e520]:
+              - list [ref=e521]:
+                - listitem [ref=e522]:
+                  - link "News" [ref=e525] [cursor=pointer]:
+                    - /url: https://www.expedition33.com/latest-news/
+                    - generic [ref=e526]: News
+                - listitem [ref=e527]:
+                  - generic [ref=e529]:
+                    - generic [ref=e531]: About
+                    - button "More About pages" [ref=e532] [cursor=pointer]:
+                      - img [ref=e533]
+                - listitem [ref=e535]:
+                  - link "Merch" [ref=e538] [cursor=pointer]:
+                    - /url: https://www.expedition33.com/merch
+                    - generic [ref=e539]: Merch
+                - listitem [ref=e540]:
+                  - generic [ref=e542]:
+                    - link "Media" [ref=e543] [cursor=pointer]:
+                      - /url: https://www.expedition33.com
+                      - generic [ref=e544]: Media
+                    - button "More Media pages" [ref=e545] [cursor=pointer]:
+                      - img [ref=e546]
+                - listitem [ref=e548]:
+                  - link "Unlock Rewards" [ref=e551] [cursor=pointer]:
+                    - /url: https://www.expedition33.com
+                    - generic [ref=e552]: Unlock Rewards
+                - listitem [ref=e553]:
+                  - generic [ref=e555]:
+                    - generic [ref=e557]: Socials
+                    - button "More Socials pages" [ref=e558] [cursor=pointer]:
+                      - img [ref=e559]
+                - listitem [ref=e561]:
+                  - link "Content Creators" [ref=e564] [cursor=pointer]:
+                    - /url: https://creators.expedition33.com/
+                    - generic [ref=e565]: Content Creators
+            - navigation "Out Now" [ref=e568]:
+              - list [ref=e569]:
+                - listitem [ref=e570]:
+                  - generic [ref=e572]:
+                    - link "Out Now" [ref=e573] [cursor=pointer]:
+                      - /url: https://www.expedition33.com/linkhub
+                      - generic [ref=e574]: Out Now
+                    - button "More Out Now pages" [ref=e575] [cursor=pointer]:
+                      - img [ref=e576]
+        - generic [ref=e578]:
+          - img "52610a_bb2fa020899247c5af44d1a819f0b65c~mv2-min.webp" [ref=e583]
+          - group:
+            - img "Ultrawide Symetrical Blob.png" [ref=e588]
+            - generic [ref=e589]:
+              - img "Sciel_edited.png" [ref=e595]
+              - img "Lune_edited.png" [ref=e600]
+              - img "Gustave_edited.png" [ref=e605]
+              - img "Maelle_edited.png" [ref=e610]
+            - paragraph [ref=e616]: With only one year left to live, join Gustave, Maelle, and their fellow Expeditioners as they embark upon a desperate quest to break the Paintress’ cycle of death. Follow the trail of previous expeditions and discover their fate. Get to know the members of Expedition 33 as they learn to work together against impossible odds.
+            - link "Meet the Expedition" [ref=e626] [cursor=pointer]:
+              - /url: https://www.expedition33.com/overview/characters
+              - generic [ref=e628]: Meet the Expedition
+      - contentinfo:
+        - generic [ref=e633]:
+          - group:
+            - generic [ref=e636]:
+              - group:
+                - img "PetalsA-min.webp" [ref=e641]
+                - link [ref=e643] [cursor=pointer]:
+                  - /url: https://www.microsoft.com/store/productid/9PPT8K6GQHRZ
+                - link [ref=e648] [cursor=pointer]:
+                  - /url: https://store.playstation.com/concept/10008503
+                - link [ref=e653] [cursor=pointer]:
+                  - /url: https://store.steampowered.com/app/1903340?utm_source=website&utm_medium=wishlist&utm_campaign=homepage
+                - link [ref=e658] [cursor=pointer]:
+                  - /url: https://store.epicgames.com/p/expedition-33-b3240d
+                - link [ref=e663] [cursor=pointer]:
+                  - /url: https://www.sandfall.co/
+                - link [ref=e669] [cursor=pointer]:
+                  - /url: https://www.kepler-interactive.com/
+                - generic [ref=e673]:
+                  - paragraph [ref=e676]: "Clair Obscur: Expedition 33 ©2025 Sandfall Interactive SAS - Published by Kepler Interactive Limited. All rights reserved."
+                  - paragraph [ref=e678]:
+                    - link "Privacy Policy" [ref=e681] [cursor=pointer]:
+                      - /url: https://kepler-interactive.com/pages/privacy-policy
+                - img "Jpeg V1.jpg" [ref=e686]
+  - region "bottom of page"

@@ -1,0 +1,34 @@
+- main [ref=e3]:
+  - img [ref=e5]
+  - generic [ref=e14]:
+    - generic [ref=e16]:
+      - img [ref=e17]
+      - img [ref=e19]
+      - img [ref=e21]
+      - img [ref=e23]
+      - img "Portrait" [ref=e28]
+    - generic [ref=e37]:
+      - paragraph [ref=e38]: « Digital Explorer »
+      - heading "Your Name" [level=1] [ref=e39]
+      - paragraph [ref=e42]: Full-Stack Developer & Digital Craftsman
+      - img [ref=e45]
+      - paragraph [ref=e48]: Building thoughtful, performant, and beautiful digital experiences. I turn complex problems into elegant solutions.
+      - navigation [ref=e49]:
+        - list [ref=e50]:
+          - listitem [ref=e51]:
+            - link "GitHub" [ref=e52] [cursor=pointer]:
+              - /url: https://github.com/yourusername
+              - text: GitHub
+          - listitem [ref=e58]:
+            - link "LinkedIn" [ref=e59] [cursor=pointer]:
+              - /url: https://linkedin.com/in/yourusername
+              - text: LinkedIn
+          - listitem [ref=e65]:
+            - link "Email" [ref=e66] [cursor=pointer]:
+              - /url: mailto:you@example.com
+              - text: Email
+          - listitem [ref=e72]:
+            - link "CV / Resume" [ref=e73] [cursor=pointer]:
+              - /url: /resume.pdf
+              - text: CV / Resume
+  - img [ref=e80]
